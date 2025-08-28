@@ -19,12 +19,12 @@
     "fastify": "^5.5.0",
     "fastify-type-provider-zod": "^5.0.3",
     "pg": "^8.16.3",
-    "zod": "^4.1.2"
-  },
-  "devDependencies": {
+    "zod": "^4.1.2",
     "@opentelemetry/auto-instrumentations-node": "^0.62.1",
     "@opentelemetry/sdk-node": "^0.203.0",
-    "@opentelemetry/sdk-trace-node": "^2.0.1",
+    "@opentelemetry/sdk-trace-node": "^2.0.1"
+  },
+  "devDependencies": {
     "@tsconfig/node22": "^22.0.2",
     "@types/amqplib": "^0.10.7",
     "@types/node": "^24.3.0",

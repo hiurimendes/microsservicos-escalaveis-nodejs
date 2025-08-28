@@ -15,6 +15,7 @@ app.register(fastifyCors, {
 })
 
 app.get('/health', () => {
+  console.log('bateu no invoices')
   return 'OK'
 })
 
